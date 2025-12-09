@@ -177,7 +177,7 @@ def save_results_to_file(play_queue, filename="channels.txt"):
 if __name__ == "__main__":
     import time
 
-    url = "https://freetv.fun/test_channels_all_new.m3u"
+    url = "https://freetv.fun/test_channels_china_new.m3u"
     start_time = time.time()
     print("程序开始运行...")
 
