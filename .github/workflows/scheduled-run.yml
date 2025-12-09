@@ -33,9 +33,7 @@ jobs:
       run: |
         python main.py
 
-    - name: Run replace_proxy_url.py
-      run: |
-        python replace_proxy_url.py
+   
 
     - name: Commit and push changes
       run: |
