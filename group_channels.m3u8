@@ -1,6 +1,2 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #This file is re-writen by ssson.
-#EXTINF:-1 tvg-name="CCTV4" tvg-id="378822" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001925822086_33.png" group-title="國語",[BD]cctv4[geo-blocked]
-http://23.237.228.134/live5/CCTV4.m3u8
-#EXTINF:-1 tvg-name="廣西衛視" tvg-id="378860" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055652623222_35.jpg" group-title="國語",[BD]广西卫视[geo-blocked]
-http://23.237.228.134/live6/guangxi.m3u8
